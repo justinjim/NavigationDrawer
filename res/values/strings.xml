@@ -17,7 +17,7 @@
 <resources>
     <string name="app_name">Navigation Drawer Example</string>
     <string-array name="planets_array">
-        <item>Mercury</item>
+        <item>nmc104</item>
         <item>Venus</item>
         <item>Earth</item>
         <item>Mars</item>
